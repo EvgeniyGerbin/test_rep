@@ -12,3 +12,4 @@ def my_map(func, iterable):
 
 my_map(summa, listik)
 
+print('map is updated')
